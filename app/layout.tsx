@@ -13,8 +13,8 @@ const geistMono = Geist_Mono({
 });
 
 export const metadata: Metadata = {
-  title: "Luna Signals",
-  description: "Track real-time stock signals with Luna Signals, get personalized alerts and explor detailed company insights to make informed investment decisions.",
+  title: "Eclipse Signals",
+  description: "Track real-time stock signals with Eclipse Signals, get personalized alerts and explor detailed company insights to make informed investment decisions.",
 };
 
 export default function RootLayout({
